@@ -1,5 +1,5 @@
 # AY15206CosmoFinal
-This repository includes two files.
+This repository includes two files:
 
 1. CMB-Temp-Power-Spectra-varying-w-latest.ipynb
 
